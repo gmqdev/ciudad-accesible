@@ -12,12 +12,11 @@
 
 **Ciudad Accesible** es una aplicación cuyo propósito principal es la denuncia de puntos urbanos que se encuentren en deterioro, mal estado o carente de adaptación a personas de movilidad reducida.
 
-Los usuarios pueden denunciar estas situaciones con una imagen del problema y la ubicación. De esta manera se facilita la reparaciónde estos puntos conflictivos. Además, contará con un disparador que evitará las denuncias duplicadas.
-
-Así mismo, los usuarios podrán compartir sus propias denuncias en [Twitter](https://twitter.com/)  para darla a conocer.
+Los usuarios pueden denunciar estas situaciones con una imagen del problema y la ubicación. De esta manera se facilita la reparaciónde estos puntos conflictivos. Además, contará con un disparador que evitará las denuncias duplicadas. Así mismo, los usuarios podrán compartir sus propias denuncias en [Twitter](https://twitter.com/)  para darla a conocer.
 
 El propósito que tiene esta aplicación es ayudar a mejorar las instalaciones públicas y promover la accesibilidad.
 
+Puedes probar el funcionamiento de esta aplicación en el repositorio de Expo: https://snack.expo.io/@gmqdev/ciudad-accesible
 
 ---
 
